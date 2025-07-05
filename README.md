@@ -1,3 +1,6 @@
+# Paused temporarily while I build problem-solving foundations in C++. Will resume with stronger clarity soon.
+
+<!--
 # go-learning-curve
 
 This repository contains practice scripts and concise learning notes from my Go (Golang) journey.
@@ -17,7 +20,7 @@ I’m following official Go resources like [A Tour of Go](https://go.dev/tour/we
 | 5   | [Structs & Interfaces](05-structs/) |
 | 6   | [Concurrency Basics](06-concurrency/) |
 | 7   | [Mini Projects](07-mini-projects/) |
--->
+--
 ## 🧠 About This Repo
 
 - Each topic is in its own folder (e.g., `01`, `02`, etc.), with:
@@ -40,3 +43,4 @@ This is a personal learning project, so I'm **not accepting pull requests right 
 
 Thanks for visiting my repo!  
 **I’ll keep updating this as I move through Go.**
+-->
